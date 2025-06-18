@@ -1,7 +1,7 @@
-# E-Yantra Competition Registration System
+#  Registration System
 
 ## Overview
-This project is a web-based competition registration system developed as part of the E-Yantra competition (Problem Statement 1 & 2). It allows users to register for a competition by providing details such as country, college, name, contact number, gender, email, academic year, and domain/department. The system includes a view page to display registered participants with filtering options. The application is built using **Laravel** with **MySQL** as the database.
+This project is a web-based competition registration system. It allows users to register for a competition by providing details such as country, college, name, contact number, gender, email, academic year, and domain/department. The system includes a view page to display registered participants with filtering options. The application is built using **Laravel** with **MySQL** as the database.
 
 ## Features
 - **Registration Form**: Dynamic dropdowns for country (5 options) and college (10 options per country), with validation for all fields.
